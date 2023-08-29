@@ -1,7 +1,6 @@
 Solar Modeling with R and Python
 ================
-Brock Taute
-4/29/2020
+David Hernandez
 
 # Background
 
