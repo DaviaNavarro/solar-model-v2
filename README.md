@@ -1,4 +1,4 @@
-Solar Modeling with R and Python
+Solar Modeling V2 
 ================
 David Hernandez
 
